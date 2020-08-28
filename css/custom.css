@@ -1,0 +1,41 @@
+.bg-color-nav {
+    background-image: linear-gradient(60deg, #175492 , #4da2a8);
+    /* background-color: #175492; */
+    border-bottom: 1px solid #efefef;
+}
+
+.img-scrol-100 {
+    height: 58px;;
+}
+
+.img-logo {
+    height: 80px;
+}
+
+.color-menu-item {
+    /* color: #358cd5!important; */
+    font-size: 0.9rem;
+    /* text-decoration: underline; */
+}
+
+.bg-color-theme {
+    background-color: #175492;
+}
+
+.text-color-theme {
+    color: #175492;
+}
+
+ul.contact-list {
+    padding-left: 10px;
+}
+
+ul.contact-list li {
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+
+ul.contact-list li button {
+    height: 2.75rem;
+    width: 2.75rem;
+}
